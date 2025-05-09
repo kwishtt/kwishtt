@@ -40,3 +40,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwisht&theme=radical" alt="kwisht" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kwisht&theme=radical" alt="kwisht" />
 </p>
+
+<h3 align="center">🐍 Snake Animation:</h3>
+<p align="center">
+  <img src="https://github.com/kwisht/kwisht/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
