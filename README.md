@@ -28,13 +28,15 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwisht&show_icons=true&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwisht&theme=radical" alt="kwisht" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwisht&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwisht&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwisht&theme=radical" alt="kwisht" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwisht&show_icons=true&locale=en&layout=compact&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwisht&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kwisht&theme=radical" alt="kwisht" />
 </p>
