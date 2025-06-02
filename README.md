@@ -3,7 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kwisht&label=Profile%20views&color=0e75b6&style=flat" alt="kwisht" /> </p>
 
-<p align="center"> <a href="[kwisht](https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png)"><img src="[https://github-profile-trophy.vercel.app/?username=kwisht&theme=gruvbox&margin-w=15&margin-h=15](https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png)" alt="kwisht" /></a> </p>
+<p align="center">
+  <a href="https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png">
+    <img src="https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png" alt="kwisht" width="600"/>
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=Data+Science+Student;Love+Learning+New+Things;Building+Projects+on+MGL" alt="Typing SVG" />
