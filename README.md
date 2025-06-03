@@ -14,6 +14,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=Data+Science+Student;Love+Learning+New+Things;Building+Projects+on+MGL" alt="Typing SVG" />
 </p>
 
+<h3 align="center">Contributions</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kwishtt/kwishtt/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+
 - 🔭 I’m currently managing on [MGL](https:/discord.gg/mgl)
 
 - 🌱 I’m studying at **HUMG University**
