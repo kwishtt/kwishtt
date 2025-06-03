@@ -1,11 +1,11 @@
-<h1 align="center">Xi 👋, I'm kwisht</h1>
+<h1 align="center">Xi 👋, I'm kwishttt</h1>
 <h3 align="center">I am a college student, majoring in data science. I always want to explore and learn new things.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kwisht&label=Profile%20views&color=0e75b6&style=flat" alt="kwisht" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kwishtt&label=Profile%20views&color=0e75b6&style=flat" alt="kwishttt" /> </p>
 
 <p align="center">
   <a href="https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png">
-    <img src="https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png" alt="kwisht" width="600"/>
+    <img src="https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png" alt="kwishtt" width="600"/>
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="center">Contributions</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kwishtt/kwishtt/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/kwishttt/kwishttt/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 
@@ -39,17 +39,17 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwisht&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwishtt&theme=radical" alt="kwishtt" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwisht&theme=radical" alt="kwisht" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwisht&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kwishtt&theme=radical" alt="kwishtt" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwishtt&theme=radical" alt="kwishtt" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwisht&theme=radical" alt="kwisht" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kwisht&theme=radical" alt="kwisht" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kwishtt&theme=radical" alt="kwishtt" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kwishtt&theme=radical" alt="kwishtt" />
 </p>
 
 >
