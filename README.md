@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, tôi là **kwishttt**
+# 👋 Xin chào, tôi là **kwishtt**
 
 ### 🎓 Sinh viên ngành Khoa học Dữ liệu | 🌟 Đam mê khám phá & học hỏi
 
