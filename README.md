@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.ibb.co/ccSPpqW7/Green-Simple-Illustrative-International-Day-Of-Forests-Email-Header.png" alt="Banner" width="100%"/>
-
 # kwishtt
 
 Data Science Student at HUMG University
