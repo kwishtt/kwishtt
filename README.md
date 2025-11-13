@@ -31,12 +31,4 @@ Working with **PostgreSQL** and **MongoDB** for data engineering projects, while
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kwishtt&bg_color=0d1117&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwishtt/kwishtt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwishtt/kwishtt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kwishtt/kwishtt/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
