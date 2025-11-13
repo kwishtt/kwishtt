@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, tôi là **kwishtt**
-
-### 🎓 Sinh viên ngành Khoa học Dữ liệu | 🌟 Đam mê khám phá & học hỏi
+# Xin chào, tôi là **kwishtt**
 
 <img src="https://komarev.com/ghpvc/?username=kwishtt&label=Profile%20views&color=2196f3&style=for-the-badge" alt="Profile views" />
 
