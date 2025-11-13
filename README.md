@@ -31,27 +31,6 @@ Working with **PostgreSQL** and **MongoDB** for data engineering projects, while
 
 ---
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kwishtt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2196f3&icon_color=2196f3&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwishtt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2196f3&ring=2196f3&fire=2196f3&currStreakLabel=2196f3" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwishtt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2196f3&text_color=c9d1d9" width="49%" />
-
-</details>
-
-<details>
-<summary>🏆 Achievements</summary>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kwishtt&theme=algolia&no-frame=true&margin-w=15&column=4&rank=-C,-?" />
-
-</details>
-
----
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwishtt&bg_color=0d1117&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" />
 
 <picture>
