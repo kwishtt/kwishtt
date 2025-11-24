@@ -14,7 +14,7 @@ Currently managing the [MGL Discord](https://discord.gg/mgl) community and explo
 
 ### What I'm up to
 
-Working with **PostgreSQL** and **MongoDB** for data engineering projects, while learning advanced ML techniques. Always looking for interesting datasets and problems to solve.
+Working with **Python** and **MongoDB** for data engineering projects, while learning advanced ML techniques. Always looking for interesting datasets and problems to solve.
 
 ### Tech stack
 
