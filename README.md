@@ -10,15 +10,6 @@ Data Science Student at HUMG University
 
 ---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kwishtt&show_icons=true&theme=transparent&hide_border=true&title_color=2196f3&icon_color=2196f3&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwishtt&layout=compact&theme=transparent&hide_border=true&title_color=2196f3&text_color=ffffff" />
-
-</div>
-
----
-
 Currently managing the [MGL Discord](https://discord.gg/mgl) community and exploring the intersection of data and real-world applications. My focus is on building meaningful projects with Python, SQL, and machine learning tools.
 
 ### What I'm up to
