@@ -29,6 +29,7 @@ I'm currently managing the [MGL Discord Server](https://discord.gg/mgl) communit
 
 <img src="https://img.shields.io/badge/OpenAI-2196f3?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Claude-2196f3?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Vibe%20Coder-2196f3?style=flat-square&logo=githubcopilot&logoColor=white" alt="Vibe Coder" />
 
 </div>
 
