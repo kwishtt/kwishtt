@@ -30,6 +30,16 @@ I'm currently managing the [MGL Discord](https://discord.gg/mgl) community while
   <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,docker,git,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
+## GitHub stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kwishtt&show_icons=true&theme=transparent&locale=vi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwishtt&layout=compact&locale=vi)
+
+</div>
+
 ## Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-2196f3?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/dihkhue)
