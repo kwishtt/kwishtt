@@ -1,9 +1,11 @@
 <div align="center">
 
-# kwishtt
+# 👋 Welcome to my profile
+
+## I'm kwishtt
 
 **Data Science Student at HUMG University**  
-Building data-driven projects with Python, SQL, and machine learning.
+Interested in Data Science, Data Engineering, and Machine Learning.
 
 <img src="https://komarev.com/ghpvc/?username=kwishtt&label=views&color=2196f3&style=flat-square" alt="profile views" />
 
@@ -13,22 +15,24 @@ Building data-driven projects with Python, SQL, and machine learning.
 
 ## About me
 
-Hi, I'm **Khuê** — a Data Science student interested in turning raw data into useful insights and real-world applications.
+Hi, I'm **Khuê** — a Data Science student who enjoys working with data and building practical projects.
 
-I'm currently managing the [MGL Discord](https://discord.gg/mgl) community while working on projects around data engineering, analytics, and machine learning.
+I'm currently managing the [MGL Discord](https://discord.gg/mgl) community and exploring how data can be used to solve real-world problems.
 
 ## What I'm working on
 
-- Building data engineering projects with **Python** and **MongoDB**
-- Practicing SQL, data analysis, and model experimentation
-- Learning more advanced machine learning techniques
-- Exploring interesting datasets and practical problems to solve
+- Data engineering projects with **Python** and **MongoDB**
+- SQL practice and data analysis
+- Machine learning experiments
+- Exploring useful datasets and project ideas
 
 ## Tech stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,docker,git,vscode&theme=dark" alt="Tech Stack" />
 </p>
+
+---
 
 ## GitHub stats
 
@@ -40,10 +44,32 @@ I'm currently managing the [MGL Discord](https://discord.gg/mgl) community while
 
 </div>
 
+---
+
+## Featured repositories
+
+<div align="center">
+
+<a href="https://github.com/kwishtt/Discord-Multi-Voice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwishtt&repo=Discord-Multi-Voice&theme=transparent" />
+</a>
+
+<a href="https://github.com/kwishtt/tikdl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwishtt&repo=tikdl&theme=transparent" />
+</a>
+
+</div>
+
+---
+
 ## Connect with me
+
+<div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-2196f3?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/dihkhue)
 [![Discord](https://img.shields.io/badge/Discord-2196f3?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mgl)
+
+</div>
 
 ---
 
