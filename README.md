@@ -21,11 +21,19 @@ I'm currently managing the [MGL Discord Server](https://discord.gg/mgl) communit
 
 ## Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mongodb,docker,git,vscode&theme=dark" alt="Tech Stack" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mongodb,vscode&theme=dark" alt="Python, MongoDB, VS Code" />
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenAI-2196f3?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-2196f3?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+
+</div>
 
 ---
+
 ## Connect with me
 
 <div align="center">
