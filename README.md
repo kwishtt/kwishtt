@@ -1,6 +1,6 @@
-<div align="center">
+# Hi, I'm kwishtt 👋
 
-# Hi, I'm kwishtt
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Data+Science+Student;Data+Engineering+%26+Machine+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -12,14 +12,22 @@
 
 ---
 
-## About
+## 🧑‍💻 About
 
-- Data Science student focused on **Data Engineering** & **Machine Learning**
-- Building practical tools with **Python** & **MongoDB**
+```yaml
+name: kwishtt
+role: Data Science Student
+focus: [Data Engineering, Machine Learning]
+tools: [Python, MongoDB]
+motto: "Always learning, always building."
+```
+
+- 🎓 Data Science student focused on **Data Engineering** & **Machine Learning**
+- 🛠️ Building practical tools with **Python** & **MongoDB**
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -35,7 +43,7 @@
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 ### [Discord-Multi-Voice](https://github.com/kwishtt/Discord-Multi-Voice)
 
@@ -46,7 +54,7 @@
 
 ---
 
-## Connect
+## 📫 Connect
 
 <div align="center">
 
